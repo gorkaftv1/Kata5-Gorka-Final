@@ -1,4 +1,4 @@
-package software.ulpgc.control.pojo;
+package software.ulpgc.control;
 
 import software.ulpgc.model.Car;
 
